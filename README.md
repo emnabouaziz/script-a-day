@@ -19,13 +19,14 @@ Each challenge is designed to be solved in ~30 minutes and builds skills in:
 
 daily-challenges/
 │
-├── 01-bash-log-audit/ \n
-│ ├── SCENARIO.md \n
-│ └── solution.sh \n
+├── 01-bash-log-audit/
+│   ├── SCENARIO.md
+│   └── solution.sh
 │
-├── 02-python-.../ \n
-│ ├── SCENARIO.md \n
-│ └── solution.py \n
+├── 02-python-.../
+│   ├── SCENARIO.md
+│   └── solution.py
+
 
 ## ⚡ Goal
 Build a portfolio of **hands-on, production-like DevOps automation tasks**, alternating Bash and Python, and gradually increasing complexity.
