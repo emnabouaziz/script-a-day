@@ -1,3 +1,23 @@
+# Day 02 – Python Challenge: Log Analysis & Alerting
+
+## Scenario
+
+As a DevOps engineer, you want to improve monitoring by **analyzing server logs** programmatically.  
+The logs are stored in:
+
+/var/log/myapp/myapp.log
+
+sql
+Copier le code
+
+Each log line contains a timestamp, log level, message, and IP address:
+
+2025-11-24 12:30:45 INFO User 192.168.1.10 accessed /home
+2025-11-24 12:31:12 ERROR Failed transaction for user 192.168.1.12
+2025-11-24 12:32:00 WARNING Slow response on /checkout
+
+markdown
+Copier le code
 
 ---
 
